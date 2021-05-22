@@ -38,7 +38,7 @@ public class PlatformerAnimatorManager : MonoBehaviour, IAnimatorManager
 
         else 
         {
-            ChangeAnimationState(Idle);   //// 
+            ChangeAnimationState(Idle);   //// ///////
         }
 
         if(inputManager.jump)
